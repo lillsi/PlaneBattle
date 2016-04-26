@@ -1,0 +1,146 @@
+<data>
+<scene>
+	<id>0</id>
+	<def>0</def>
+	<width>1000</width>
+	<height>800</height>
+	<basex>900</basex>
+	<basey>500</basey>
+	<baseHp>2000</baseHp>
+	<battery>
+		<data>700,200,500,1000,5,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,270,500,1000,5,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,340,500,1000,5,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,410,500,1000,5,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,480,500,1000,5,400,40,0</data>
+	</battery>
+</scene>
+<scene>
+	<id>1</id>
+	<def>1</def>
+	<width>1000</width>
+	<height>800</height>
+	<basex>900</basex>
+	<basey>500</basey>
+	<baseHp>2000</baseHp>
+	<battery>
+		<data>700,200,500,1000,10,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,270,500,1000,10,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,340,500,1000,10,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,410,500,1000,10,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,480,500,1000,10,400,40,0</data>
+	</battery>
+</scene>
+<scene>
+	<id>2</id>
+	<def>0</def>
+	<width>1000</width>
+	<height>800</height>
+	<basex>900</basex>
+	<basey>500</basey>
+	<baseHp>2000</baseHp>
+	<battery>
+		<data>700,200,500,1000,15,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,270,500,1000,15,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,340,500,1000,15,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,410,500,1000,15,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,480,500,1000,15,400,40,0</data>
+	</battery>
+</scene>
+<scene>
+	<id>3</id>
+	<def>1</def>
+	<width>1000</width>
+	<height>800</height>
+	<basex>900</basex>
+	<basey>500</basey>
+	<baseHp>2000</baseHp>
+	<battery>
+		<data>700,200,500,1000,20,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,270,500,1000,20,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,340,500,1000,20,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,410,500,1000,20,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,480,500,1000,20,400,40,0</data>
+	</battery>
+</scene>
+<scene>
+	<id>4</id>
+	<def>0</def>
+	<width>1000</width>
+	<height>800</height>
+	<basex>900</basex>
+	<basey>500</basey>
+	<baseHp>2000</baseHp>
+	<battery>
+		<data>700,200,500,1000,25,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,270,500,1000,25,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,340,500,1000,25,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,410,500,1000,25,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,480,500,1000,25,400,40,0</data>
+	</battery>
+</scene>
+<scene>
+	<id>5</id>
+	<def>1</def>
+	<width>1000</width>
+	<height>800</height>
+	<basex>900</basex>
+	<basey>500</basey>
+	<baseHp>2000</baseHp>
+	<battery>
+		<data>700,200,500,1000,30,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,270,500,1000,30,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,340,500,1000,30,400,40,0</data>
+	</battery>
+	<battery>
+		<data>800,410,500,1000,30,400,40,0</data>
+	</battery>
+	<battery>
+		<data>700,480,500,1000,30,400,40,0</data>
+	</battery>
+</scene>
+</data>

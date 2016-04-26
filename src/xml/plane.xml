@@ -1,0 +1,242 @@
+<data>
+<Plane1>
+	<hpMax>100</hpMax>
+	<attack>50</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>100</price>
+</Plane1>
+<Plane1>
+	<hpMax>200</hpMax>
+	<attack>100</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>200</price>
+</Plane1>
+<Plane1>
+	<hpMax>300</hpMax>
+	<attack>150</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>300</price>
+</Plane1>
+<Plane1>
+	<hpMax>400</hpMax>
+	<attack>200</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>400</price>
+</Plane1>
+<Plane1>
+	<hpMax>500</hpMax>
+	<attack>250</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>500</price>
+</Plane1>
+<Plane2>
+	<hpMax>75</hpMax>
+	<attack>300</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>150</price>
+</Plane2>
+<Plane2>
+	<hpMax>150</hpMax>
+	<attack>600</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>300</price>
+</Plane2>
+<Plane2>
+	<hpMax>225</hpMax>
+	<attack>900</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>450</price>
+</Plane2>
+<Plane2>
+	<hpMax>300</hpMax>
+	<attack>1200</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>600</price>
+</Plane2>
+<Plane2>
+	<hpMax>375</hpMax>
+	<attack>1500</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>750</price>
+</Plane2>
+<Plane3>
+	<hpMax>450</hpMax>
+	<attack>125</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>180</price>
+</Plane3>
+<Plane3>
+	<hpMax>900</hpMax>
+	<attack>251</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>360</price>
+</Plane3>
+<Plane3>
+	<hpMax>1350</hpMax>
+	<attack>378</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>540</price>
+</Plane3>
+<Plane3>
+	<hpMax>1800</hpMax>
+	<attack>503</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>720</price>
+</Plane3>
+<Plane3>
+	<hpMax>2250</hpMax>
+	<attack>630</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>900</price>
+</Plane3>
+<PlaneMore>
+	<hpMax>300</hpMax>
+	<attack>180</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>200</price>
+</PlaneMore>
+<PlaneMore>
+	<hpMax>600</hpMax>
+	<attack>360</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>400</price>
+</PlaneMore>
+<PlaneMore>
+	<hpMax>900</hpMax>
+	<attack>540</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>600</price>
+</PlaneMore>
+<PlaneMore>
+	<hpMax>1200</hpMax>
+	<attack>720</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>800</price>
+</PlaneMore>
+<PlaneMore>
+	<hpMax>1500</hpMax>
+	<attack>900</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>1000</price>
+</PlaneMore>
+<PlaneRush>
+	<hpMax>450</hpMax>
+	<attack>275</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>250</price>
+</PlaneRush>
+<PlaneRush>
+	<hpMax>900</hpMax>
+	<attack>550</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>500</price>
+</PlaneRush>
+<PlaneRush>
+	<hpMax>1350</hpMax>
+	<attack>825</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>750</price>
+</PlaneRush>
+<PlaneRush>
+	<hpMax>1800</hpMax>
+	<attack>1100</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>1000</price>
+</PlaneRush>
+<PlaneRush>
+	<hpMax>2250</hpMax>
+	<attack>1375</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>1250</price>
+</PlaneRush>
+<PlaneResource>
+	<hpMax>140</hpMax>
+	<attack>140</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>280</price>
+</PlaneResource>
+<PlaneResource>
+	<hpMax>280</hpMax>
+	<attack>280</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>560</price>
+</PlaneResource>
+<PlaneResource>
+	<hpMax>420</hpMax>
+	<attack>420</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>840</price>
+</PlaneResource>
+<PlaneResource>
+	<hpMax>560</hpMax>
+	<attack>560</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>1120</price>
+</PlaneResource>
+<PlaneResource>
+	<hpMax>700</hpMax>
+	<attack>700</attack>
+	<rate>2000</rate>
+	<range>350</range>
+	<buddle>0</buddle>
+	<price>1400</price>
+</PlaneResource>
+</data>
